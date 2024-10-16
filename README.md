@@ -3,7 +3,7 @@ Inicialmente foi criado pois queria escutar os livros ao invés de ler. Primeira
 
 Exemplo de design e utilização:
 
-Tela de Início
+                                               Tela de Início
 ![Captura de tela 2024-10-16 151707](https://github.com/user-attachments/assets/799acf48-610f-418b-beb7-8f360564fca4)
 
 Obs: Essa tela inicial conta com uma barra de carregamento que funciona quando é importado o arquivo e também funciona como o carregamento do áudio está concluido. 
